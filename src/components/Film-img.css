@@ -1,0 +1,5 @@
+.film-img {
+  width: 220px;
+  max-height: 125px;
+  object-fit: cover;
+}

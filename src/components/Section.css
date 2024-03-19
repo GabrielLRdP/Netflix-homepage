@@ -1,0 +1,6 @@
+.carrousel {
+  display: flex;
+  flex-wrap: nowrap;
+  /* overflow: hidden; */
+  overflow-x: scroll;
+}
