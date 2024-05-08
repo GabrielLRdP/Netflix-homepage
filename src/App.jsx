@@ -2,6 +2,7 @@ import { useState } from "react";
 import Header from "./components/Header";
 import Section from "./components/Section";
 import filmsData from "./assets/datas.json";
+import image from "./assets/BrandAssets_Logos_01-Wordmark.jpg";
 
 import "./App.css";
 
@@ -16,7 +17,7 @@ function App() {
     <>
       <div className="container">
         <Header
-          src="/src/assets/BrandAssets_Logos_01-Wordmark.jpg"
+          src=image
           alt="Logo Netflix"
         />
         {categoryTab}
