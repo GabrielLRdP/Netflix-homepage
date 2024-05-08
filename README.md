@@ -1,8 +1,14 @@
-# React + Vite
+# Netflix Homepage 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Une version simplifiée de la page d'accueil de Netflix, développée en React. Il s'agit de mon premier projet en React lors de ma formation au Réacteur.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Utilisées
+
+- **Langages:** HTML, CSS
+
+## Installation
+
+1. Clonez ce repository.
+2. Ouvrez le fichier `index.html` dans votre navigateur web.
