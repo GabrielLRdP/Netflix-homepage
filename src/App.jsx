@@ -17,7 +17,7 @@ function App() {
     <>
       <div className="container">
         <Header
-          src=image
+          src={image}
           alt="Logo Netflix"
         />
         {categoryTab}
