@@ -16,7 +16,7 @@ function App() {
     <>
       <div className="container">
         <Header
-          src="./src/assets/BrandAssets_Logos_01-Wordmark.jpg"
+          src="./assets/BrandAssets_Logos_01-Wordmark.jpg"
           alt="Logo Netflix"
         />
         {categoryTab}
