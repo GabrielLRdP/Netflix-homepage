@@ -11,7 +11,8 @@ Une version simplifiée de la page d'accueil de Netflix, développée en React. 
 
 ## Technologies Utilisées
 
-- **Langages:** HTML, CSS
+- **Langages:** JS, HTML, CSS
+- **Frameworks:** React
 
 ## Installation
 
